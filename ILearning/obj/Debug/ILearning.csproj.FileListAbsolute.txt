@@ -1,0 +1,7 @@
+C:\Users\HomeUser\Desktop\ILearning\ILearning\bin\Debug\ILearning.exe.config
+C:\Users\HomeUser\Desktop\ILearning\ILearning\bin\Debug\ILearning.exe
+C:\Users\HomeUser\Desktop\ILearning\ILearning\bin\Debug\ILearning.pdb
+C:\Users\HomeUser\Desktop\ILearning\ILearning\obj\Debug\ILearning.csproj.AssemblyReference.cache
+C:\Users\HomeUser\Desktop\ILearning\ILearning\obj\Debug\ILearning.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Desktop\ILearning\ILearning\obj\Debug\ILearning.exe
+C:\Users\HomeUser\Desktop\ILearning\ILearning\obj\Debug\ILearning.pdb
